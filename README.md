@@ -42,7 +42,7 @@ Install minimal, standard, or full KDE Plasma environment.
 ```
 sudo dpkg-reconfigure sddm
 
-Selecciona sddm como gestor de inicio de sesión.
+Select sddm as login manager.
 ```
 ### 3️⃣ Enable and start SDDM
 ```bash
