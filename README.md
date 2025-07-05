@@ -27,6 +27,12 @@ my small grain of sand, and I hope this clear and error-free guide helps others.
 - Disable Cinnamon services and autostarts to prevent interference.  
 - Keep Cinnamon installed and fully revertible if needed.
 
+⚠️ **Important Note:**
+
+Before making any changes to your desktop environments, it’s strongly recommended to create a system snapshot using Timeshift or make a full backup of your personal data and configuration files.
+This will allow you to safely restore your system in case anything goes wrong during the process.
+
+
 ## 🖥️ Step by step
 
 ### 1️⃣ Install KDE Plasma
